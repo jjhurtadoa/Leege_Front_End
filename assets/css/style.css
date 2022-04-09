@@ -144,6 +144,11 @@ body {
     color: white;
 }
 
+.oval-fill-2 {
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
 .secop2 {
     background-color: #4c5c8f;
 }
@@ -304,4 +309,8 @@ body {
     border-radius: 16px;
     width: 23rem;
     margin: auto;
+}
+
+.vota {
+    background-color: #F9F9F9 !important
 }
